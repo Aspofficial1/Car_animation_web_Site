@@ -2,7 +2,7 @@
 
 A stunning scroll-driven animation experience showcasing luxury car interiors with seamless video-to-canvas transitions and frame-by-frame scrolling animations.
 
-![Hero Animation Preview](https://via.placeholder.com/1200x600/1a1a1a/E8001D?text=Car+Animation+Project)
+![Hero Animation Preview](public/assets/scorll_based_images/ezgif-11fee8090461b62a-png-split/ezgif-frame-001.png)
 
 ---
 
