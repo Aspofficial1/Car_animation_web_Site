@@ -1,6 +1,3 @@
-Here's a professional README.md for your project:
-
-```markdown
 # 🚗 Car Animation Project - Premium Interior Studio
 
 A stunning scroll-driven animation experience showcasing luxury car interiors with seamless video-to-canvas transitions and frame-by-frame scrolling animations.
@@ -253,4 +250,3 @@ For support, email support@yourdomain.com or open an issue on GitHub.
 ---
 
 **Built with ❤️ by Mahawadige Abhishek Sandeep**
-```
